@@ -1,2 +1,2 @@
 # sheloire.github.io
-Mi home page :j
+Mi homepage :j
